@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/react-input-fields.git"
+    "url": "https://github.com/nahid-web-dev/react-input-fields.git"
   },
   "dependencies": {},
   "peerDependencies": {
