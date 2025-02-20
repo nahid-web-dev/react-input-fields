@@ -1,0 +1,41 @@
+{
+  "name": "react-input-fields",
+  "version": "1.0.0",
+  "description": "This package is used for taking files such as images, videos, etc., as input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "input",
+    "file input",
+    "react",
+    "image",
+    "video",
+    "react image",
+    "react image input",
+    "react input fields",
+    "react input field",
+    "input field",
+    "image input"
+  ],
+  "author": {
+    "name": "Nahid",
+    "email": "nahid.web.creator@gmail.com",
+    "url": "https://nahid-info.netlify.app"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/react-input-fields.git"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0",
+    "react-icons": ">=4.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
